@@ -1,0 +1,15 @@
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container > div {
+    
+    background-color: cornsilk;
+}
+
+/*
+.flex-container > div:hover{
+    background-color: blue;
+}
+*/
